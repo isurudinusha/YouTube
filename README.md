@@ -14,6 +14,7 @@ The YouTube Clone replicates the core features of YouTube, allowing users to wat
 
 To get started with this project, clone the repository and install the dependencies:
 
+```bash
 git clone <repository-url>
 cd <repository-directory>
 npm install
