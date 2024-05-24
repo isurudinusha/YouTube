@@ -1,27 +1,27 @@
-# React + TypeScript + Vite
+# YouTube Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a clone of the popular video-sharing platform, YouTube. It's built using React and TypeScript, providing a robust and type-safe application.
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The YouTube Clone replicates the core features of YouTube, allowing users to watch videos, search for videos, and view video details. The user interface closely resembles the original YouTube for a familiar user experience.
 
-## Expanding the ESLint configuration
+## Installation
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+To get started with this project, clone the repository and install the dependencies:
 
-- Configure the top-level `parserOptions` property like this:
+git clone <repository-url>
+cd <repository-directory>
+npm install
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+## Usage
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+To start the development server:
+
+npm start
+
+The application will be available at http://localhost:3000.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
