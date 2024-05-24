@@ -1,39 +1,39 @@
 export const subscriptions = [
   {
-    channelName: "Fireship",
-    id: "Fireship",
+    channelName: "Adult Swim",
+    id: "adultswim",
     imgUrl:
-      "https://yt3.googleusercontent.com/ytc/APkrFKb--NH6RwAGHYsD3KfxX-SAgWgIHrjR5E4Jb5SDSQ=s176-c-k-c0x00ffffff-no-rj",
+      "https://yt3.googleusercontent.com/KIq94K1ZMmnxu14wvGRBQpALqFRe8t7Li8ki-MMzN8tjUzyH07Cwi8IgT-eVUX7Q20pPcKrJwQ=s160-c-k-c0x00ffffff-no-rj",
   },
   {
-    channelName: "Caleb Curry",
-    id: "CalebCurry",
+    channelName: "ScienceClic English",
+    id: "ScienceClicEN",
     imgUrl:
-      "https://yt3.googleusercontent.com/ytc/APkrFKbpSojje_-tkBQecNtFuPdSCrg3ZT0FhaYjln9k0g=s176-c-k-c0x00ffffff-no-rj",
+      "https://yt3.googleusercontent.com/ytc/AIdro_npe9hjG5LPQM0AR98D3fQmho_yLDA6piPpfnRFjeyW0g=s160-c-k-c0x00ffffff-no-rj",
   },
   {
-    channelName: "Web Dev Simplified",
-    id: "WebDevSimplified",
+    channelName: "fern",
+    id: "fern-tv",
     imgUrl:
-      "https://yt3.ggpht.com/ytc/APkrFKZWeMCsx4Q9e_Hm6nhOOUQ3fv96QGUXiMr1-pPP=s48-c-k-c0x00ffffff-no-rj",
+      "https://yt3.ggpht.com/mAELqtgNIsFmbiP7o5VvogYPacS4qXN9T8fiJbF7xgyNaPBMQjH0RerBsv_LQThlFfJK3lqO0g=s48-c-k-c0x00ffffff-no-rj",
   },
   {
-    channelName: "Kevin Powell",
-    id: "KevinPowell",
+    channelName: "Scammer Payback",
+    id: "ScammerPayback",
     imgUrl:
-      "https://yt3.ggpht.com/ytc/APkrFKa6XiLa13mMVPzkmmTBcgNPjjqCGPrY86KfJFmf5w=s48-c-k-c0x00ffffff-no-rj",
+      "https://yt3.googleusercontent.com/r6Ka-HHQUYR2LVzaK3UUg7Uv1gbbHY1-m52vPh0HzGqDxY8X638JxruQgGoFWChHXwoGWymn=s160-c-k-c0x00ffffff-no-rj",
   },
   {
-    channelName: "Sonny Sangha",
-    id: "SonnySangha",
+    channelName: "Kurzgesagt – In a Nutshell",
+    id: "kurzgesagt",
     imgUrl:
-      "https://yt3.ggpht.com/FjeN785fVWx0Pr6xCbwPhhq8hHj_gocc3FygDXYDEQgp2gE_FQzRNsFHFAjQ3oE-VJaeGR1a=s68-c-k-c0x00ffffff-no-rj",
+      "https://yt3.ggpht.com/ytc/AIdro_nVQf8Psqlpa_dTYOWy0WESNzpzzJDUUv2LhGEMt8jQrvs=s68-c-k-c0x00ffffff-no-rj",
   },
   {
-    channelName: "Traversy Media",
-    id: "TraversyMedia",
+    channelName: "Zach King",
+    id: "ZachKing",
     imgUrl:
-      "https://yt3.googleusercontent.com/ytc/APkrFKYcYswt_UhD7D0j6ddiQz6Gb8Q_vSJOjhYI0CoXSw=s176-c-k-c0x00ffffff-no-rj-mo",
+      "https://yt3.googleusercontent.com/ytc/AIdro_moxLSIoFn5L2HPf4_hWEiVxU-a9Fv7r_-MYXICn0HIhXA=s160-c-k-c0x00ffffff-no-rj",
   },
 ];
 
