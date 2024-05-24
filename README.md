@@ -2,6 +2,10 @@
 
 This project is a clone of the popular video-sharing platform, YouTube. It's built using React and TypeScript, providing a robust and type-safe application.
 
+## Live Demo
+
+You can view the live demo of the YouTube Clone at [isuruyoutube.netlify.app](https://isuruyoutube.netlify.app).
+
 ## Overview
 
 The YouTube Clone replicates the core features of YouTube, allowing users to watch videos, search for videos, and view video details. The user interface closely resembles the original YouTube for a familiar user experience.
