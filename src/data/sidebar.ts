@@ -25,7 +25,7 @@ export const subscriptions = [
   },
   {
     channelName: "Kurzgesagt – In a Nutshell",
-    id: "kurzgesagt",
+    id: "kurzgesagtN",
     imgUrl:
       "https://yt3.ggpht.com/ytc/AIdro_nVQf8Psqlpa_dTYOWy0WESNzpzzJDUUv2LhGEMt8jQrvs=s68-c-k-c0x00ffffff-no-rj",
   },
